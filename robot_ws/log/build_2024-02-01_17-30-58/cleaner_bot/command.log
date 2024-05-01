@@ -1,0 +1,4 @@
+Invoking command in '/home/ashay/robot_ws/build/cleaner_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ashay/robot_ws/build/cleaner_bot -- -j8 -l8
+Invoked command in '/home/ashay/robot_ws/build/cleaner_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ashay/robot_ws/build/cleaner_bot -- -j8 -l8
+Invoking command in '/home/ashay/robot_ws/build/cleaner_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ashay/robot_ws/build/cleaner_bot
+Invoked command in '/home/ashay/robot_ws/build/cleaner_bot' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ashay/robot_ws/build/cleaner_bot

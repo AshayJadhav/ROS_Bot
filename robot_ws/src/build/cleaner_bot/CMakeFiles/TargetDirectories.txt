@@ -1,0 +1,9 @@
+/home/ashay/robot_ws/src/build/cleaner_bot/CMakeFiles/uninstall.dir
+/home/ashay/robot_ws/src/build/cleaner_bot/CMakeFiles/cleaner_bot_uninstall.dir
+/home/ashay/robot_ws/src/build/cleaner_bot/CMakeFiles/test.dir
+/home/ashay/robot_ws/src/build/cleaner_bot/CMakeFiles/edit_cache.dir
+/home/ashay/robot_ws/src/build/cleaner_bot/CMakeFiles/rebuild_cache.dir
+/home/ashay/robot_ws/src/build/cleaner_bot/CMakeFiles/list_install_components.dir
+/home/ashay/robot_ws/src/build/cleaner_bot/CMakeFiles/install.dir
+/home/ashay/robot_ws/src/build/cleaner_bot/CMakeFiles/install/local.dir
+/home/ashay/robot_ws/src/build/cleaner_bot/CMakeFiles/install/strip.dir

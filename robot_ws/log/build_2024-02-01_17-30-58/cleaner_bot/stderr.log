@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:56 (file):
+  file INSTALL cannot find
+  "/home/ashay/robot_ws/src/cleaner_bot-main/scripts/ebot_docking_client.py":
+  No such file or directory.
+
+[0m

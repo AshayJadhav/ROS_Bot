@@ -1,0 +1,5 @@
+[0.095s] Invoking command in '/home/ashay/robot_ws/build/cleaner_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ashay/robot_ws/build/cleaner_bot -- -j8 -l8
+[0.109s] [0mCMake Error: The source directory "/home/ashay/robot_ws/src/cleaner_bot-main" does not exist.
+[0.109s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.109s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.111s] Invoked command in '/home/ashay/robot_ws/build/cleaner_bot' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ashay/robot_ws/build/cleaner_bot -- -j8 -l8
